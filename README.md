@@ -1,4 +1,4 @@
-# 📧 Sistema de Correos Masivos
+# 📧 Sistema de Correos Masivos V0.0.1
 
 Sistema básico para envío de correos electrónicos masivos con soporte para plantillas. Desarrollado por **Isaac Esteban Haro Torres**.
 
